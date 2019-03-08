@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SchoolManagerSystem">
+    <output-path>$PROJECT_DIR$/../../apache-tomcat-8.5.35/webapps/SchoolManagerSystem</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SchoolManagerSystem/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SchoolManagerSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib and one more file" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
